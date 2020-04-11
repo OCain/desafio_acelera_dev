@@ -1,7 +1,8 @@
 import requests
 import json
 
-TOKEN = '6a38bbadbc2b8b70b48503388c1848b2cc53bc79'
+TOKEN = ''
+
 
 def get_data():
     url = 'https://api.codenation.dev/v1/challenge/dev-ps/generate-data'
